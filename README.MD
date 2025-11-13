@@ -36,13 +36,19 @@ seguem abaixo.
 ## 🧠 Prompts
 
 
-ChatGPT：
+Crie um título de um ebook sobre o Empresas de Saude na bolsa de valores o ebookk é do nicho de Finanças e economia e o subnicho é de empresas de saude, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Perfeito 😎 Aqui vão 5 variações de títulos épicos e curtos para o seu eBook sobre empresas de saúde na bolsa de valores, com uma temática inspirada em Star Wars e voltadas para o nicho de Finanças e Economia:
 
+“A Nova Esperança da Saúde: O Despertar das Ações”
+
+“O Império da Saúde Contra-Ataca: Lucros na Bolsa”
+
+“O Retorno dos Lucros: A Força das Empresas de Saúde”
+
+“A Ascensão da Força Financeira: Saúde no Mercado”
+
+“A Guerra dos Tickers: A Força Está com a Saúde”
 
 Midjourney：
 
